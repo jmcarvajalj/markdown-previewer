@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(62, 185, 201);
+}
+
+.html__preview {
+    padding: 25px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Lato, sans-serif;
+}
+
+.form-control {
+    width: 700px
+}
